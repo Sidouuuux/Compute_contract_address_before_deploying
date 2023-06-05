@@ -1,8 +1,7 @@
 
-# ✨ Hardhat starter kit ✨
-This repository serves as a starting point to quickly spin up a new Hardhat project with a range of powerful tools and features already available.
+# ✨ Precompute Contract Address with Create2 ✨
 
-With this starter kit, you can begin working on your project immediately, without having to spend time setting up your environment or configuring your tools. The project comes pre-configured with Hardhat, a popular development environment for building Ethereum smart contracts, as well as a range of plugins and packages that will help streamline your development process.
+Contract address can be precomputed, before the contract is deployed, using create2
 
 # Requirements 🔧
 
